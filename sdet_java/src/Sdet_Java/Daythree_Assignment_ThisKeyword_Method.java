@@ -3,7 +3,7 @@ package Sdet_Java;
 public class Daythree_Assignment_ThisKeyword_Method {
 	
 	public void Method() {
-		System.out.println("Default parameterized method");
+		System.out.println("Default method");
 	}
 	
 	public void Method1(int a) {
